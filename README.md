@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @sergiopaniego
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning about Autonomous Driving
+- 👋 Hi, I’m @sergiopaniego, a PhD candidate in Artificial Intelligence.
+- 👀 I’m interested in Artificial Intelligence, Computer Vision and Robotics.
+- 🌱 I’m currently learning about Autonomous Driving and everything related to the topics previously stated 😄
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects!
-- 📫 How to reach me @sergiopaniego
+- 📫 How to reach me @sergiopaniego on any social media.
 
 
 
 <p align="center">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sergiopaniego&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-  <img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopaniego&hide_border=true" />
+  <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopaniego&hide_border=true" />
 </p>
 
 
