@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @sergiopaniego. I have a PhD in Artificial Intelligence.
 - 👀 I’m interested in Artificial Intelligence, Computer Vision, LLMs, and Robotics.
-- 🌱 I’m currently learning about Autonomous Driving and everything related to the topics previously stated 😄
+- 🌱 I’m currently learning about everything related to the topics previously stated 😄
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects!
-- 📫 How to reach me @sergiopaniego on any social media.
+- 📫 You can reach me as @sergiopaniego on any social media.
 
 
 
