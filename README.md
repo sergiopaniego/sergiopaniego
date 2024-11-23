@@ -4,13 +4,9 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects!
 - 📫 You can reach me as @sergiopaniego on any social media.
 
-
-
 <p align="center">
   <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopaniego&hide_border=true" />
 </p>
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sergio-paniego-blanco/" style="text-decoration:none;">
