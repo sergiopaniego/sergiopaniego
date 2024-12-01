@@ -1,8 +1,21 @@
-- 👋 Hi, I'm @sergiopaniego. I have a PhD in Artificial Intelligence.
-- 👀 I’m interested in Artificial Intelligence, Computer Vision, LLMs, and Robotics.
-- 🌱 I’m currently learning about everything related to the topics previously stated 😄
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects!
-- 📫 You can reach me as @sergiopaniego on any social media.
+# 👋 Hi there! I'm Sergio Paniego  
+
+I hold a PhD in Artificial Intelligence and am deeply passionate about pushing the boundaries of AI research and applications.  
+
+## 💡 What I’m into:  
+- **Artificial Intelligence** 🌟  
+- **Computer Vision** 🖼️  
+- **Large Language Models (LLMs)** 💬  
+- **Robotics** 🤖  
+
+## 🌱 Currently exploring:  
+The ever-evolving landscape of AI, from groundbreaking innovations in LLMs to the latest advancements in Computer Vision.  
+
+## 🤝 Let’s collaborate!  
+I’m open to working on exciting AI projects that aim to make a real-world impact.  
+
+## 📫 Connect with me:  
+Reach out on social media — you’ll find me everywhere as **@sergiopaniego**.  
 
 <p align="center">
   <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopaniego&hide_border=true" />
