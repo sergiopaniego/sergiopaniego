@@ -17,9 +17,6 @@ I’m open to working on exciting AI projects that aim to make a real-world impa
 ## 📫 Connect with me:  
 Reach out on social media — you’ll find me everywhere as **@sergiopaniego**.  
 
-<p align="center">
-  <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sergiopaniego&hide_border=true" />
-</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sergio-paniego-blanco/" style="text-decoration:none;">
